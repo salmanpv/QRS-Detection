@@ -189,7 +189,7 @@ plot(t(r_peaks), y(r_peaks), 'ro', 'MarkerFaceColor', 'r', 'MarkerSize', 8); % P
 xlabel('Time (s)');
 ylabel('Amplitude');
 title('Peak Detection on Integrated ECG Signal');
-legend('Integrated Signal', 'Detected R-Peaks');
+legend('Integrated Signal', 'Detected R-Peaks', 'Location', 'southeast');
 grid on;
 hold off;
 

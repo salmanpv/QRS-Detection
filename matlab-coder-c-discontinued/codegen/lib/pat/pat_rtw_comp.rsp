@@ -1,0 +1,6 @@
+-IC:/Users/imsal/Desktop/matlab-optimized-for-c/new/codegen/lib/pat
+-IC:/Users/imsal/Desktop/matlab-optimized-for-c/new
+-IC:/Users/imsal/Desktop/matlab-optimized-for-c/new/codegen/lib/pat/CXSparse/Include
+-IC:/Users/imsal/Desktop/matlab-optimized-for-c/new/codegen/lib/pat/CXSparse/SuiteSparse_config
+-IC:/Users/imsal/Desktop/matlab-optimized-for-c/new/codegen/lib/pat/CXSparse/CXSparseSupport
+-I"C:/Program Files/MATLAB/R2024b/extern/include"
